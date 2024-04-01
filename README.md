@@ -20,9 +20,9 @@
 <div align="justify">📞 I am open to new job opportunities, interesting projects, and collaborations that allow me to continue growing and developing in this exciting field. You can contact me either through my LinkedIn profile or via email:</div>
 <br>
 <div align="center">📩 javier.ramirezmoral@gmail.com</div>
-
+<br>
 <div>
-    <img  width="100%" src="https://github.com/JavierRamirezMoral/JavierRamirezMoral/assets/101793125/528a32d0-3135-420a-a241-f1a2acfc940d">
+    <img  src="https://github.com/JavierRamirezMoral/JavierRamirezMoral/assets/101793125/528a32d0-3135-420a-a241-f1a2acfc940d">
 </div>
 
 
