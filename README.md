@@ -1,5 +1,9 @@
 ## 👋🏻 Welcome!
 
+<div align="center">
+    <img  src="https://github.com/JavierRamirezMoral/JavierRamirezMoral/assets/101793125/72b0803f-8eb1-421c-8ea8-5e67020983de">
+</div>
+
 👨🏻‍💻 My name is Javier, and I'm passionate about the world of computing, particularly in the Cloud sector.
 <br>
 <div align="justify">☁️ Currently, I am pursuing a Master's degree in MultiCloud Systems Administration with Microsoft Azure, Amazon Web Services, and Google Cloud Platform. I am also expanding my expertise with DevOps tools such as Terraform, Kubernetes, and Docker, among others.</div>
@@ -24,7 +28,6 @@
 <div>
     <img  src="https://github.com/JavierRamirezMoral/JavierRamirezMoral/assets/101793125/528a32d0-3135-420a-a241-f1a2acfc940d">
 </div>
-
 
 
 
