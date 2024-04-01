@@ -10,7 +10,7 @@
 <div align="justify">☁️ Currently, I am pursuing a Master's degree in MultiCloud Systems Administration with Microsoft Azure, Amazon Web Services, and Google Cloud Platform. I am also expanding my expertise with DevOps tools such as Terraform, Kubernetes, and Docker, among others.</div>
 <br>
 🚀 Based on my interests and aspirations, my professional objective is to specialize and learn technologies including:
-
+<br>
 * Terraform for infrastructure as code.
 * Docker and Kubernetes for containerization.
 * Solutions in SaaS, PaaS, and IaaS services.
@@ -27,7 +27,7 @@
 <div align="center">📩 javier.ramirezmoral@gmail.com</div>
 <br>
 <div align="center">
-    <img width="300px" height="300px"  src="https://github.com/JavierRamirezMoral/JavierRamirezMoral/assets/101793125/528a32d0-3135-420a-a241-f1a2acfc940d">
+    <img width="300px" height="300px"  src="https://github.com/JavierRamirezMoral/JavierRamirezMoral/assets/101793125/528a32d0-3135-420a-a241-f1a2acfc940d" style="border-color:red">
 </div>
 
 
