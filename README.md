@@ -1,8 +1,8 @@
-## 👋🏻 Welcome!
-
 <div align="center">
     <img  src="https://github.com/JavierRamirezMoral/JavierRamirezMoral/assets/101793125/72b0803f-8eb1-421c-8ea8-5e67020983de">
 </div>
+<br>
+## 👋🏻 Welcome!
 
 👨🏻‍💻 My name is Javier, and I'm passionate about the world of computing, particularly in the Cloud sector.
 <br>
