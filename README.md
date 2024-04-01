@@ -5,10 +5,10 @@
 <div align="justify">☁️ Currently, I am pursuing a Master's degree in MultiCloud Systems Administration with Microsoft Azure, Amazon Web Services, and Google Cloud Platform. I am also expanding my expertise with DevOps tools such as Terraform, Kubernetes, and Docker, among others.</div>
 <br>
 🚀 Based on my interests and aspirations, my professional objective is to specialize and learn technologies including:
-*Terraform for infrastructure as code.
-*Docker and Kubernetes for containerization.
-*Solutions in SaaS, PaaS, and IaaS services.
-*CI/CD DevOps Jenkins GitHub.
+* Terraform for infrastructure as code.
+* Docker and Kubernetes for containerization.
+* Solutions in SaaS, PaaS, and IaaS services.
+* CI/CD DevOps Jenkins GitHub.
 <br>
 <div align="justify">👥 I am involved as a Tech Rider collaborating with Tajamar Tech to carry out various presentations, event organization, and projects, among other initiatives. I am also a part of Cloud Sculptor, an association with some classmates from the Master's program to execute diverse projects with different technologies, linking them together to achieve comprehensive and original solutions.</div>
 <br>
