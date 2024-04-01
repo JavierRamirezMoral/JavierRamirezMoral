@@ -13,7 +13,7 @@
 <br>
 <div align="justify">👥 I am involved as a Tech Rider collaborating with Tajamar Tech to carry out various presentations, event organization, and projects, among other initiatives. I am also a part of Cloud Sculptor, an association with some classmates from the Master's program to execute diverse projects with different technologies, linking them together to achieve comprehensive and original solutions.</div>
 <br>
-<div align="justify">💡I am proactive, always seeking continuous learning to explore various topics, embracing challenges, and devising future plans. I thrive on achieving challenging goals within teams of individuals who share my passions, fostering an environment of trust, motivation, and mutual support.</div>
+<div align="justify">💡 I am proactive, always seeking continuous learning to explore various topics, embracing challenges, and devising future plans. I thrive on achieving challenging goals within teams of individuals who share my passions, fostering an environment of trust, motivation, and mutual support.</div>
 <br>
 <div align="justify">🔎 If you are seeking someone with the ability to adapt to different challenges and projects, with an open-minded and results-driven mindset, offering a distinct value and a clear, direct approach, feel free to connect with me.</div>
 <br>
@@ -21,6 +21,9 @@
 <br>
 <div align="center">📩 javier.ramirezmoral@gmail.com</div>
 
+<div>
+    <img  width="100%" src="https://github.com/JavierRamirezMoral/JavierRamirezMoral/assets/101793125/528a32d0-3135-420a-a241-f1a2acfc940d">
+</div>
 
 
 
