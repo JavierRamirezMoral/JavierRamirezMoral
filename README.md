@@ -27,7 +27,7 @@
 <div align="center">📩 javier.ramirezmoral@gmail.com</div>
 <br>
 <div align="center">
-    <img width="300px" height="300px"  src="https://github.com/JavierRamirezMoral/JavierRamirezMoral/assets/101793125/528a32d0-3135-420a-a241-f1a2acfc940d" style="border: 2 solid red;">
+    <img width="400px" height="400px"  src="https://github.com/JavierRamirezMoral/JavierRamirezMoral/assets/101793125/528a32d0-3135-420a-a241-f1a2acfc940d">
 </div>
 
 
